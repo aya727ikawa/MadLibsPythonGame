@@ -5,7 +5,7 @@
 #as Python automatically generates your story for you! Enter different words for each set.
 
 loop = 1
-list = ["You", "Are", "Done"!]
+list = ["You", "Are", "Done!"]
 
 while(loop < 6): 
 
@@ -25,7 +25,7 @@ while(loop < 6):
     food1 = input("Enter a food: ")
     drink = input("Enter a drink: ")
     food2 = input("Enter a food: ")
-    adj2 = input("Enter the adjective: ")
+    adj3 = input("Enter the adjective: ")
 
 #print out Mad Lib story
     print(" ")
